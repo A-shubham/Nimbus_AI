@@ -1,0 +1,13 @@
+flask
+hypercorn
+langchain
+langchain-google-vertexai
+langchain-google-genai
+google-cloud-aiplatform
+google-cloud-firestore  # Add this line
+pypdf
+python-docx
+pandas
+openpyxl
+werkzeug
+python-dotenv
